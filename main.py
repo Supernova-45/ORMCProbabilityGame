@@ -12,7 +12,7 @@
 # If you token passes all three coins without landing on one, you lose. 
 # On which three spaces should you place the coins to maximize your chances of winning?
 
-# This program simulates the game and plots the results.
+# This program simulates the game multiple times, then plots the results using the matplotlib module.
 # --
 
 # using the random and plotting modules
